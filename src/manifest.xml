@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<componentPackage>
+
+	<!-- JavierJulio mx library -->
+	<component id="BooleanValidator" class="com.javierjulio.mxlib.validators.BooleanValidator"/>
+	<component id="ListValidator" class="com.javierjulio.mxlib.validators.ListValidator"/>
+	<!--
+	<component id="" class="com.javierjulio.mxlib.components."/>
+	-->
+</componentPackage>
